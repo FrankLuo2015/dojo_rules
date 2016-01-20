@@ -4,3 +4,4 @@
 *   HTML & CSS, 
 *   iOS or
  *  Electives.) make me learn more. 
+* Killing history using git rebase
